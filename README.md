@@ -38,4 +38,4 @@ Replace this picture with your own. Take a screenshot of the app on your phone, 
 
 ## AI note
 
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+I asked AI to explain Gradle/NDK errors during setup and how if and return work in Dart. I wrote the greetingFor function myself.
