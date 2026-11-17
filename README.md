@@ -38,4 +38,6 @@ Replace this picture with your own. Take a screenshot of the app on your phone, 
 
 ## AI note
 
-I asked AI to explain Gradle/NDK errors during setup and how if and return work in Dart. I wrote the greetingFor function myself.
+## AI Usage Note
+
+I used AI assistance to understand the Flutter assignment, troubleshoot errors, and get guidance while completing the project. I reviewed and tested the code myself.
